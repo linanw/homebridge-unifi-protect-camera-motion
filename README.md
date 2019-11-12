@@ -1,3 +1,10 @@
+Fork to-do list 
+* make tensorflow an optional dependency, to make this plugin works with hosting cloudkey g2+ which is aarch64. (failed compile tensorflow/tjfs on it)
+
+
+
+
+
 # Unifi-Protect-Camera-Motion
 
 This Homebridge plugin extends the standard [FFmpeg Homebridge plugin](https://github.com/KhaosT/homebridge-camera-ffmpeg#readme) and provides your cameras and motion sensors for use in Homekit.
