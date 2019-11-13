@@ -1,8 +1,8 @@
-Fork to-do list 
+Fork wish list: 
 * make tensorflow an optional dependency, to make this plugin works with hosting cloudkey g2+ which is aarch64. (failed compile tensorflow/tjfs on it)
-
-
-
+* get events thumbnail from unit by http get, as it accurately mathes event. 
+** https://<cloudkey>/api/events?end=1573616752083&start=1573530352083&type=motion to get events list with thumbnail ids. 
+** https://protect.linanw.me/api/thumbnails/5dca352f0143f403e7000671?accessKey=<access_token>&h=320&w=480, the h and w can be highres. 
 
 
 # Unifi-Protect-Camera-Motion
